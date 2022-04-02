@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DengxinHuang, Frist year student at University of Rochester
+- 👀 I’m interested in video games and coding
+- 🌱 I’m currently learning Python, Java, SAS, R and etc...
+- 📫 How to reach me: dhuang19@u.rochester.edu or https://www.linkedin.com/in/dengxinhuang
